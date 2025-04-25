@@ -1,0 +1,24 @@
+{
+  "name": "dbtests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schea1/dbtests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schea1/dbtests/issues"
+  },
+  "homepage": "https://github.com/schea1/dbtests#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "pg": "^8.15.5"
+  }
+}
